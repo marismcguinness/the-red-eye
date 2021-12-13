@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the-red-eye/static/css/main.a617e044.chunk.css",
+    "main.js": "/the-red-eye/static/js/main.ef7bf4ad.chunk.js",
+    "main.js.map": "/the-red-eye/static/js/main.ef7bf4ad.chunk.js.map",
+    "runtime-main.js": "/the-red-eye/static/js/runtime-main.96ac7af1.js",
+    "runtime-main.js.map": "/the-red-eye/static/js/runtime-main.96ac7af1.js.map",
+    "static/js/2.96856d71.chunk.js": "/the-red-eye/static/js/2.96856d71.chunk.js",
+    "static/js/2.96856d71.chunk.js.map": "/the-red-eye/static/js/2.96856d71.chunk.js.map",
+    "static/js/3.eef1dea6.chunk.js": "/the-red-eye/static/js/3.eef1dea6.chunk.js",
+    "static/js/3.eef1dea6.chunk.js.map": "/the-red-eye/static/js/3.eef1dea6.chunk.js.map",
+    "index.html": "/the-red-eye/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/the-red-eye/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.96856d71.chunk.js.LICENSE.txt": "/the-red-eye/static/js/2.96856d71.chunk.js.LICENSE.txt",
+    "static/media/BEIGE LOGO (1).3bddafdc.png": "/the-red-eye/static/media/BEIGE LOGO (1).3bddafdc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96ac7af1.js",
+    "static/js/2.96856d71.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ef7bf4ad.chunk.js"
+  ]
+}

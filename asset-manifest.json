@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/the-red-eye/static/css/main.a617e044.chunk.css",
-    "main.js": "/the-red-eye/static/js/main.ef7bf4ad.chunk.js",
-    "main.js.map": "/the-red-eye/static/js/main.ef7bf4ad.chunk.js.map",
-    "runtime-main.js": "/the-red-eye/static/js/runtime-main.96ac7af1.js",
-    "runtime-main.js.map": "/the-red-eye/static/js/runtime-main.96ac7af1.js.map",
-    "static/js/2.96856d71.chunk.js": "/the-red-eye/static/js/2.96856d71.chunk.js",
-    "static/js/2.96856d71.chunk.js.map": "/the-red-eye/static/js/2.96856d71.chunk.js.map",
-    "static/js/3.eef1dea6.chunk.js": "/the-red-eye/static/js/3.eef1dea6.chunk.js",
-    "static/js/3.eef1dea6.chunk.js.map": "/the-red-eye/static/js/3.eef1dea6.chunk.js.map",
+    "main.css": "/the-red-eye/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/the-red-eye/static/js/main.e99beb89.chunk.js",
+    "main.js.map": "/the-red-eye/static/js/main.e99beb89.chunk.js.map",
+    "runtime-main.js": "/the-red-eye/static/js/runtime-main.ecb339a2.js",
+    "runtime-main.js.map": "/the-red-eye/static/js/runtime-main.ecb339a2.js.map",
+    "static/js/2.231faa48.chunk.js": "/the-red-eye/static/js/2.231faa48.chunk.js",
+    "static/js/2.231faa48.chunk.js.map": "/the-red-eye/static/js/2.231faa48.chunk.js.map",
+    "static/js/3.6c1a87d4.chunk.js": "/the-red-eye/static/js/3.6c1a87d4.chunk.js",
+    "static/js/3.6c1a87d4.chunk.js.map": "/the-red-eye/static/js/3.6c1a87d4.chunk.js.map",
     "index.html": "/the-red-eye/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/the-red-eye/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.96856d71.chunk.js.LICENSE.txt": "/the-red-eye/static/js/2.96856d71.chunk.js.LICENSE.txt",
-    "static/media/BEIGE LOGO (1).3bddafdc.png": "/the-red-eye/static/media/BEIGE LOGO (1).3bddafdc.png"
+    "static/css/main.6dea0f05.chunk.css.map": "/the-red-eye/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.231faa48.chunk.js.LICENSE.txt": "/the-red-eye/static/js/2.231faa48.chunk.js.LICENSE.txt",
+    "static/media/BEIGE LOGO (1).3bddafdc.png": "/the-red-eye/static/media/BEIGE LOGO (1).3bddafdc.png",
+    "static/media/Gilli Blend Coffee (1).5b4e7c5c.jfif": "/the-red-eye/static/media/Gilli Blend Coffee (1).5b4e7c5c.jfif",
+    "static/media/How to Drink Coffee More Sustainably.0f66ed10.jfif": "/the-red-eye/static/media/How to Drink Coffee More Sustainably.0f66ed10.jfif",
+    "static/media/One Year Later, Open Mic Night is Still Going Strong at The Reserve.a08ef4e3.jfif": "/the-red-eye/static/media/One Year Later, Open Mic Night is Still Going Strong at The Reserve.a08ef4e3.jfif",
+    "static/media/Quando Os Grãos (1).27ee9e27.jfif": "/the-red-eye/static/media/Quando Os Grãos (1).27ee9e27.jfif",
+    "static/media/Quando Os Grãos (2).93351c1d.jfif": "/the-red-eye/static/media/Quando Os Grãos (2).93351c1d.jfif",
+    "static/media/header.4fa04ea8.jpg": "/the-red-eye/static/media/header.4fa04ea8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.96ac7af1.js",
-    "static/js/2.96856d71.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.ef7bf4ad.chunk.js"
+    "static/js/runtime-main.ecb339a2.js",
+    "static/js/2.231faa48.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e99beb89.chunk.js"
   ]
 }

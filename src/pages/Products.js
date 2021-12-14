@@ -1,10 +1,10 @@
 import React from 'react';
 import Typography from '@mui/material/Typography';
 
-import compost from '../img/Bamboozle Compost Bin.jfif';
-import cup from '../img/Keep Cup Reusable Coffee Cup.png';
-import pourover from '../img/Set of Coffee Dripper, Coffee Jug, Pot, Ceramic Pour Over Coffee Set, Tumbler, Handmade Ceramic, Pour Over, Gift Set, Reusable Filters.jfif';
-import filter from '../img/Reusable Cotton Coffee Filter _ Size 4 (by the unit).jfif';
+import compost from '../img/bin.jfif';
+import cup from '../img/cup.png';
+import pourover from '../img/pourover.jfif';
+import filter from '../img/filter.jfif';
 import Grid from '@mui/material/Grid';
 import Button from '@mui/material/Button';
 
